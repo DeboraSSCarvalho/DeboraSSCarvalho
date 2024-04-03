@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debora_ssilva_carvalho)
 
 ![Debora Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=DeboraSSCarvalho&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraSSCarvalho&layout=compact)
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -20,3 +21,5 @@
 </div></br>
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+
